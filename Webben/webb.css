@@ -40,12 +40,15 @@ ul.nav-ul {
 li.nav-li {
     float: left;
     border-right: 1px solid #bbb;
+    border-left: 1px solid #bbb;
+    border-radius: 8px;
 }
 
 li.nav-li2 {
     float: left;
     border-right: 1px solid #bbb;
     border-left: 1px solid #bbb;
+    border-radius: 8px;
 }
 
 li.nav-li a.nav-a {
